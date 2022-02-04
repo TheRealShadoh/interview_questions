@@ -8,6 +8,9 @@
 	- [Git](#git)
 	- [Ansible](#ansible)
 	- [Agile](#agile)
+	- [CI/CD](#cicd)
+	- [Networking](#networking)
+	- [Linux](#linux)
 
 ## Programming
 
@@ -93,17 +96,17 @@
 - Agile: What is a the purpose of a spike?
   - (Research/better understand): no
 
-###
+## CI/CD
 
 - CI/CD: Any experience with Jenkins? What is a common use-case for Jenkins?
   - (Automated Testing):
 
-###
+## Networking
 
 - Networking: When you power on a computer, and you see an APIPA address. What does this mean, where do you look to resolve this?
   - (DHCP):
 
-###
+## Linux
 
 - Linux: Using yum (or distribution equivalent) to install a piece of software, if I am told it cannot be found in yum. How do I resolve this so I can install with yum.
   - (Add new repo to yum repolist):
