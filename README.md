@@ -10,8 +10,9 @@
 	- [Agile](#agile)
 
 ## Programming
+
 - Programming: What is your preffered language for automation?
-  -
+  - `placeholder`
 - Programming: If you have a variable set equal to "11" what data type is this?
   - (string)
 - Programming: What are some of the commmon data types in programming/scripting?
@@ -27,30 +28,30 @@
 - Programming: Tasked to deploy a WSUS server, based on data determine if internal or external DB should be used, what sort of logic is this.
   - (conditional/if/when)
 - Programming: In pseudo code- explain the process to deploy said WSUS server.
-  -
+  - `placeholder`
 
 ## Security
 
 - Security: What is Kerberos used for?
-  -
+  - `placeholder`
 
 ## Kubernetes
 
 - k8s: when to use, when not to use
-  -
+  - `placeholder`
 - k8s: Benefits of k8s
-  -
+  - `placeholder`
 - k8s: What are some of the workload types for automating pod recreation/persistence? (deployment or statefulset or replicaset)
-    -
+  - `placeholder`
 - k8s: what is a deployment or statefulset
-  -
+  - `placeholder`
 
 ## Active Directory
 
 - AD: What is LDAP?
-	-
+  - `placeholder`
 - AD: Where would I find a global catalog server?
-    -
+  - `placeholder`
 - AD: If I have 100 computers and 200 users, what is the standard windows product to manage the users and computers?
   - (Active Directory):
 - AD: Of my 200 users, if I want to group users for administrative or permission oriented reasons, what sort of (Active Directory) group would I use?
@@ -83,9 +84,9 @@
   - (Role):
   - (Module):
 - Ansible: What is a module?
-  -
+  - `placeholder`
 - Ansible: What language are modules commonly?
-  -
+  - `placeholder`
 
 ## Agile
 
